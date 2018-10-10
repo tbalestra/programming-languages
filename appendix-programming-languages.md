@@ -39,10 +39,11 @@ which is not only a proof assistant but also a fully fledged functional programm
 - Haskell (Daniel Briseno, Colton Gering)
 - IBM Q (Sam Kagan, Trevor Kling) 
 - Fortran (Akash Arora, ... somebody wants to join?)
-- Javascript/JQuery (Theo Balestra, Rielle Dizon, Monique Namsinh)
+- Javascript/JQuery (Monique Namsinh)
 - Elixir (Cole Gotelli, Nick Lai, Charlie Liu)
 - Ruby on Rails (Brendan Forde, Tommy Madden)
 - Go (Nicole Fergie)
 - Common Lisp (Gregory Albarian, Sabrina Toubbeh)
 - Haskell (Yixing Zheng)
+- RUST with Web Assembly (Theo Balestra, Rielle Dizon)
 - ... 
